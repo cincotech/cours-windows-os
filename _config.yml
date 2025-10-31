@@ -14,6 +14,21 @@ theme:
     text: "Arial, sans-serif"
     code: "Courier New, monospace"
 
+# Navigation bar (top menu)
+header_pages:
+  - index.md
+  - module1-introduction/lesson1.md
+  - module2-architecture/lesson1.md
+  - module3-installation/lesson1.md
+  - module4-comptes-securite/lesson1.md
+  - module5-fichiers-stockage/lesson1.md
+  - module6-applications/lesson1.md
+  - module7-reseaux/lesson1.md
+  - module8-services-admin/lesson1.md
+  - module9-automatisation-scripts/lesson1.md
+  - module10-securite-maintenance/lesson1.md
+  - module11-depannage/lesson1.md
+
 # Navigation
 nav:
   - Accueil: index.md
